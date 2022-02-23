@@ -28,7 +28,7 @@ Vous devrez créer un fichier .md qui vous permettra de présenter pour chacun d
 ## une technique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
 
 ## une composante technologique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas pour cette partie, 
-vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
+### vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
 
 # De plus, chaque membre de l'équipe devra présenter, dans un fichier .md individuel (dans le repository d'équipe) :
 
@@ -38,5 +38,5 @@ vous devrez faire des recherches pour mieux connaitre la technique et la composa
 
 ## le rôle que vous croyez que vous jouerez dans un tel projet, lorsque vous serez en 3e année, avec justification
 
-Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies 
-lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information
+### Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies 
+### lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information
